@@ -53,7 +53,9 @@
   <br/>
   <br/>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa425&&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa425)
+  <!-- most used language -->
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa425) -->
   
   <h3> 📫 Get in touch </h3>
   <p>
