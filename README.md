@@ -53,6 +53,8 @@
   <br/>
   <br/>
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa425&&show_icons=true&theme=dracula)
+  
   <h3> 📩 Get in touch </h3>
   <p>
     email 📧 : lisa425@sookmyung.ac.kr<br/>
