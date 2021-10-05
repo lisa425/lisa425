@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🐣 Hello! This is Chaewon Im 🐣 </h1>
+  <h2> 🐣 Hello! This is Chaewon Im 🐣 </h2>
   <p>
     ✏️ I'm Studying in Seoul Now.<br>
     👀 Most interested in web front-end, hybrid app, interaction, and uxui.<br>
