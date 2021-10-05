@@ -1,7 +1,7 @@
 <div align="center">
   <h2> 🐣 Hello! This is Chaewon Im 🐣 </h2>
   <p>
-    ✏️ I'm Studying in Seoul Now.<br>
+    ✏️ I'm Studying in Seoul,South Korea Now.<br>
     👀 Most interested in web front-end, hybrid app, interaction, and uxui.<br>
     🎓 Majored in Visual/Media Design and Computer Science.
     <br/>
@@ -55,7 +55,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa425&&show_icons=true&theme=dracula)
   
-  <h3> 📩 Get in touch </h3>
+  <h3> 📫 Get in touch </h3>
   <p>
     email 📧 : lisa425@sookmyung.ac.kr<br/>
     velog 📝 : <a href="https://velog.io/@chxxwn">https://velog.io/@chxxwn</a>
