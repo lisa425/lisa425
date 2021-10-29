@@ -2,7 +2,7 @@
   <h2> 🐣 Hello! This is Chaewon Im 🐣 </h2>
   <p>
     ✏️ I'm Studying in Seoul,South Korea Now.<br>
-    👀 Most interested in web front-end, hybrid app, interaction, and uxui.<br>
+    👀 Most interested in web front-end, app, interaction, and uxui.<br>
     🎓 Majored in Visual/Media Design and Computer Science.
     <br/>
     <br/>
