@@ -3,7 +3,7 @@
   <p>
     ✏️ I'm Studying in Seoul,South Korea Now.<br>
     👀 Most interested in web front-end, app, interaction, and uxui.<br>
-    🎓 Majored in Visual/Media Design and Computer Science.
+    🎓 Majored in Computer Science and Visual/Media Design.
     <br/>
     <br/>
   </p>
