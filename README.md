@@ -57,7 +57,7 @@
   <!-- most used language -->
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa425) -->
   
-  <h3> 📫 Get in touch </h3>
+  <h3> 📫 Contact </h3>
   <p>
     email 📧 : lisa425@sookmyung.ac.kr<br/>
     velog 📝 : <a href="https://velog.io/@chxxwn">https://velog.io/@chxxwn</a>
