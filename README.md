@@ -1,9 +1,12 @@
-<div align="center">
-  <h2> 🐣 Hello! This is Chaewon Im 🐣 </h2>
+<div align="left">
+  <h2> 🐣 주니어 프론트엔드 개발자, 임채원입니다. 🐣 </h2>
   <p>
-    ✏️ I'm Studying in Seoul,South Korea Now.<br>
-    👀 Most interested in web front-end, app, interaction, and uxui.<br>
-    🎓 Majored in Computer Science and Visual/Media Design.
+    ✏️ 서울에 거주하고 있습니다.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Studying in Seoul,South Korea Now.<br><br>
+    👀 웹 프론트엔드 개발과 UX/UI 분야에 흥미를 가지고 공부하고 있습니다. <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most interested in web front-end development and UX/UI.<br><br>
+    🎓 IT공학전공과 시각영상디자인과에서 복수전공을 하였습니다.. <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Majored in Computer Science and Visual/Media Design.
     <br/>
     <br/>
   </p>
@@ -59,7 +62,7 @@
   
   <h3> 📫 Contact </h3>
   <p>
-    email 📧 : lisa425@sookmyung.ac.kr<br/>
+    email 📧 : codnjs984@gmail.com<br/>
     velog 📝 : <a href="https://velog.io/@chxxwn">https://velog.io/@chxxwn</a>
   </p>
 </div>
