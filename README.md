@@ -3,8 +3,8 @@
   <p>
     ✏️ 대한민국 서울특별시에 거주하고 있습니다.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Studying in Seoul,South Korea Now.<br><br>
-    👀 웹 프론트엔드 개발과 UX/UI 분야에 가장 흥미를 느끼고 집중적으로 공부하고 있습니다.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most interested in web front-end development and UX/UI.<br><br>
+    👀 프론트엔드 개발 분야에 가장 흥미를 느끼고 집중적으로 공부하고 있습니다.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most interested in front-end development.<br><br>
     🎓 IT공학전공과 시각영상디자인과에서 복수전공을 하였습니다.. <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Majored in Computer Science and Visual/Media Design.
     <br/>
