@@ -5,8 +5,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Studying in Seoul,South Korea Now.<br><br>
     👀 프론트엔드 개발 분야에 가장 흥미를 느끼고 집중적으로 공부하고 있습니다.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most interested in front-end development.<br><br>
-    🎓 IT공학전공과 시각영상디자인과에서 복수전공을 하였습니다.. <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Majored in Computer Science and Visual/Media Design.
+    🎓 시각영상디자인과와 IT공학과에서 복수전공을 하였습니다. <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Majored in Visual/Media Design and Computer Science.
     <br/>
     <br/>
   </p>
