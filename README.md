@@ -1,7 +1,7 @@
 <div align="left">
   <h2> 🐣 주니어 프론트엔드 개발자, 임채원입니다. 🐣 </h2>
   <p>
-    ✏️ 대한민국 서울특별시에 거주하고 있습니다.<br>
+    🌏 대한민국 서울특별시에 거주하고 있습니다.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Studying in Seoul,South Korea Now.<br><br>
     👀 프론트엔드 개발 분야에 가장 흥미를 느끼고 집중적으로 공부하고 있습니다.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most interested in front-end development.<br><br>
