@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <!-- <h2> 🐣 주니어 프론트엔드 개발자, 임채원입니다. 🐣 </h2>-->
   <!--
     <p>
@@ -31,10 +31,9 @@
   <br/>
   <br/>
 
+  <a href="https://github.com/lisa425"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisa425)
-  <!-- most used language -->
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa425) -->
+  <!--<a href="https://github.com/lisa425"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=lisa425&theme=nord" alt="SOKURI's github stats" /></a>-->
   
   <h3> 📫 Contact </h3>
   <p>
