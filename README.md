@@ -33,7 +33,7 @@
   <h3> 📫 Contact </h3>
   <p>
     email 📧 : codnjs984@gmail.com<br/>
-    velog 📝 : <a href="https://iamchaewon.tistory.com">https://iamchaewon.tistory.com</a>
+    blog 📝 : <a href="https://iamchaewon.tistory.com">https://iamchaewon.tistory.com</a>
   </p>
 </div>
 
